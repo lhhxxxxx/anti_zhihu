@@ -14,6 +14,6 @@ git clone https://github.com/lhhxxxxx/anti_zhihu.git
 
 2. 启用：
 
-在 `HoshinoBot\hoshino\config\bot.py` 文件的 `MODULES_ON` 加入 'anti_zhihu'
+在 `HoshinoBot\hoshino\config\bot.py` 文件的 `MODULES_ON` 加入 `'anti_zhihu'`
 
 然后重启 HoshinoBot
